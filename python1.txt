@@ -1,0 +1,2 @@
+s = "babad"
+print(s.replace('ad', ''))
